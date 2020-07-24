@@ -1,4 +1,7 @@
 # TFT-MoodeCoverArt 
+*version = "0.0.5" : changes*
+
+* added 4th line with encoded info in full overlay mode
 
 *version = "0.0.4" : changes*
 
